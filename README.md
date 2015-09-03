@@ -2,7 +2,7 @@
 
 # Install
 ```sh
-$ git clone https://github.com/taksenov/noreddit2.git && cd noreddit
+$ git clone https://github.com/taksenov/noreddit2.git && cd noreddit2
 $ bower install
 $ npm install
 $ gulp
